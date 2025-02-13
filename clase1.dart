@@ -12,7 +12,6 @@ class figura {
   void clacularArea(){
     print("Area: ${_largo * _ancho}");// Imprimir el valor del area
 }// Clase figura
-
   void calcularPerimetro(){
     print("Perimetro: ${2 * _largo + 2 * _ancho}");// Imprimir el valor del perimetro
   } // Funcion calcularPerimetro
